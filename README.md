@@ -38,3 +38,7 @@ Happy learning.
       - bytesarray
       - range
       - None
+  3) Base conversion functions.
+       - bin()
+       - oct()
+       - hex()
