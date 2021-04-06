@@ -42,3 +42,9 @@ Happy learning.
        - bin()
        - oct()
        - hex()
+
+  4) string data types
+    a) triple quotes
+    i) To define multiline string literals  
+    ii) To use '  and " as normal charactor in string
+    iii) To use in docs string
