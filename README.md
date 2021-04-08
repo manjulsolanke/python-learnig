@@ -48,4 +48,6 @@ Happy learning.
     i) To define multiline string literals  
     ii) To use '  and " as normal charactor in string
     iii) To use in docs string
-  - Python support positive and negative index  
+  - Python support positive and negative index.  
+  - python doesn't support the mix datatypes in str in concatation. Example s="apple" + "10"
+   
