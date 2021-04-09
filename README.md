@@ -58,4 +58,12 @@ int, float, complex, boolean and str called as fundamental data types
     iii) To use in docs string
   - Python support positive and negative index.  
   - python doesn't support the mix dataTypes in str in concatenation. Example s="apple" + "10"
+### Type casting
+There are five type casting in-built functions. 
+1) int()
+2) float()
+3) complex()
+4) bool()
+6) str()
+Complex type can't be converted to the int data types
    
