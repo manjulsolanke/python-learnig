@@ -4,7 +4,9 @@
   1) Identifiers. 
      
 Any names called Identifiers such as variable , method and class name.
-     Roles:
+
+Roles:
+
      1) cash - is valid
      2) ca$h - invalid
      3) total123 - valid
