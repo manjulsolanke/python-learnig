@@ -6,7 +6,7 @@ print(a)
 b = float(10)
 print(b)
 
-# converting from boolen  to int data types.
+# converting from boolean  to int data types.
 
 
 c = int(True)
