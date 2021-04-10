@@ -67,6 +67,7 @@ There are five type casting in-built functions.
 3) complex()
 4) bool()
 6) str()
+
 Complex type can't be converted to the int data types.
    
 Table of type casting.
