@@ -78,3 +78,4 @@ Table of type casting.
 | Complex() | complex(10) = 10+0j & complex(10,20) 10+20j| Yes | Yes |Yes |Yes |
 | bool() | Yes | Yes | Yes| Yes |Yes(IMP) |
 | str() | Yes | Yes | Yes| Yes |Yes |
+
