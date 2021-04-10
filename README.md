@@ -69,3 +69,12 @@ There are five type casting in-built functions.
 6) str()
 Complex type can't be converted to the int data types.
    
+Table of type casting.
+
+| argument_type /Type_casting function |int arg | float arg | complex arg |bool arg | str arg | 
+| :---: | :---: | :---: | :---: | :---: | :---: 
+| int() | Yes | int(10.0) = 10 |No |int(True) = 1 & int(False) = 0| contains only int value with base 10|
+| float() | float(10) = 10.0 | Yes | No|float(True) = 1.0 & float(False) = 0.0 |int or float value only  | 
+| Complex() | complex(10) = 10+0j & complex(10,20) 10+20j| Yes | Yes |Yes |Yes |
+| bool() | Yes | Yes | Yes| Yes |Yes(IMP) |
+| str() | Yes | Yes | Yes| Yes |Yes |
