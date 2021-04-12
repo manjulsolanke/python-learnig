@@ -80,3 +80,28 @@ Table of type casting.
 | bool() | Yes | Yes | Yes| Yes |Yes(IMP) |
 | str() | Yes | Yes | Yes| Yes |Yes |
 
+
+
+Immunitability 
+
+- fundamental data types provide immutability to re-use the object. However, complex data-type doesn't perovide object re-usability, its provide only immunitability.
+
+
+### Collection related data types: 
+
+- List 
+- Tuple
+- Set
+- Frozenset
+- Dist
+- Range
+- Byte 
+- Byterange
+
+[10,20,30] - list
+{10,20,30} - set
+(10,20,30) - Tuple
+{100:'Manjul', 200:'Solanke'} dist
+List: 
+
+Order matter and duplicates are allowed.
