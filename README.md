@@ -102,6 +102,16 @@ Immunitability
 {10,20,30} - set
 (10,20,30) - Tuple
 {100:'Manjul', 200:'Solanke'} dist
+
 List: 
+ 
+ 1) Orders perserved.
+ 2) Duplicate objects are allowed.
+ 3) heterogeneous objects are allowed.
+ 4) indexing concept are applicable.
+ 5) Slice operators also applicable.
+ 6) We can append and remove the objects in list. It also called "growable list".
+ 7) List is mutable.
+
 
 Order matter and duplicates are allowed.
