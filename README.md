@@ -103,7 +103,7 @@ Immunitability
 (10,20,30) - Tuple
 {100:'Manjul', 200:'Solanke'} dist
 
-List: 
+## List: 
  
  1) Orders perserved.
  2) Duplicate objects are allowed.
@@ -113,16 +113,27 @@ List:
  6) We can append and remove the objects in list. It also called "growable list".
  7) List is mutable.
 
-Tuple: 
+## Tuple: 
 
   1) Same as list except that it is an     immutable data type.
   2) Read only version of list is tuple
   3) 
 
 Difference between List and Tuple
+
 | List          | Tuple         |
 | ------------- | ------------- |
 | Mutable       | immutable     |
 | []            | ().           |
 | More memory.  | Less memory.  |
 | slow performace| fast performance|   
+
+
+## set
+  - Oder doesn't matter.
+  - Duplicates are not allowed.
+  - Indexing and slicing not possible
+  - Heterogeneous objects are allowed.
+  - Add can be added in set.
+  - Set is growable.
+  - Set is mutable.
