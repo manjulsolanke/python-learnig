@@ -113,5 +113,16 @@ List:
  6) We can append and remove the objects in list. It also called "growable list".
  7) List is mutable.
 
+Tuple: 
 
-Order matter and duplicates are allowed.
+  1) Same as list except that it is an     immutable data type.
+  2) Read only version of list is tuple
+  3) 
+
+Difference between List and Tuple
+| List          | Tuple         |
+| ------------- | ------------- |
+| Mutable       | immutable     |
+| []            | ().           |
+| More memory.  | Less memory.  |
+| slow performace| fast performance|   
