@@ -143,3 +143,18 @@ Difference between List and Tuple
   - Duplicate not allowed
   - Order is not applicable
 
+
+## Dict
+   - Meant to represent the group of keys and values.
+   - Order not preserved.
+   - Duplicate key are not allowed.
+   - Duplicate value are allowed.
+   - Heterogeneouse object allowed.
+   - Dict is muteable.
+   - Indexing and slacing not applicable.
+
+## Range   
+   - Oder is preserved 
+   - Indexing and slicing is applicable
+   - Range is immutiable
+   - Three form is available 1) range(10) 2) range(10,21) 3) range(10,20,30)
