@@ -137,3 +137,9 @@ Difference between List and Tuple
   - Add can be added in set.
   - Set is growable.
   - Set is mutable.
+
+## Frozenset
+  - Its immutable 
+  - Duplicate not allowed
+  - Order is not applicable
+
