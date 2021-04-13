@@ -158,3 +158,10 @@ Difference between List and Tuple
    - Indexing and slicing is applicable
    - Range is immutiable
    - Three form is available 1) range(10) 2) range(10,21) 3) range(10,20,30)
+
+## Bytes 
+   - Immuteable data types
+
+## Bytearray
+    - muteable
+    - Values should be range betweem 0 - 255
