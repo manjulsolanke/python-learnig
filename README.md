@@ -103,7 +103,7 @@ Immunitability
 (10,20,30) - Tuple
 {100:'Manjul', 200:'Solanke'} dist
 
-## List: 
+### List: 
  
  1) Orders perserved.
  2) Duplicate objects are allowed.
@@ -113,7 +113,7 @@ Immunitability
  6) We can append and remove the objects in list. It also called "growable list".
  7) List is mutable.
 
-## Tuple: 
+### Tuple: 
 
   1) Same as list except that it is an     immutable data type.
   2) Read only version of list is tuple
@@ -129,7 +129,7 @@ Difference between List and Tuple
 | slow performace| fast performance|   
 
 
-## set
+### set
   - Oder doesn't matter.
   - Duplicates are not allowed.
   - Indexing and slicing not possible
@@ -138,13 +138,13 @@ Difference between List and Tuple
   - Set is growable.
   - Set is mutable.
 
-## Frozenset
+### Frozenset
   - Its immutable 
   - Duplicate not allowed
   - Order is not applicable
 
 
-## Dict
+### Dict
    - Meant to represent the group of keys and values.
    - Order not preserved.
    - Duplicate key are not allowed.
@@ -153,17 +153,31 @@ Difference between List and Tuple
    - Dict is muteable.
    - Indexing and slacing not applicable.
 
-## Range   
+### Range   
    - Oder is preserved 
    - Indexing and slicing is applicable
    - Range is immutiable
    - Three form is available 1) range(10) 2) range(10,21) 3) range(10,20,30)
 
-## Bytes 
+### Bytes 
    - Immuteable data types
 
-## Bytearray
+### Bytearray
     - muteable
     - Values should be range betweem 0 - 255
 
-## None
+### None
+
+
+
+## Python operator
+
+###  Arithmetic operator
+
+1) Addition (+)
+2) Substraction (-)
+3) Mutiplications (*)
+4) Division operator(/) # Alway doing to provide floating point value 
+5) Modulo operator (%)
+6) Floor Division operator(//) # "//" is going to provide integral and floating values.
+7) Exponent operator or Power operator(**)     
