@@ -165,3 +165,5 @@ Difference between List and Tuple
 ## Bytearray
     - muteable
     - Values should be range betweem 0 - 255
+
+## None

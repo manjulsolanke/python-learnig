@@ -1,0 +1,6 @@
+print('ManjulSolanke\n')
+print('Manjul\tSolanke\n')
+print("Shivam\nSolanke")
+print("Shivam\'s")
+print("Shivam\"s")
+print("Shivam\\s")
