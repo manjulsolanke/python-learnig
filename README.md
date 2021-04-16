@@ -180,4 +180,7 @@ Difference between List and Tuple
 4) Division operator(/) # Alway doing to provide floating point value 
 5) Modulo operator (%)
 6) Floor Division operator(//) # "//" is going to provide integral and floating values.
-7) Exponent operator or Power operator(**)     
+7) Exponent operator or Power operator(**)
+
+###  Relational operator
+1) 
