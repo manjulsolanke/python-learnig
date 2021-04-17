@@ -185,3 +185,13 @@ Difference between List and Tuple
 ###  Relational operator
 1) Relational operator can be applied for numbers, string and boolean value as well. 
 2) Chaining of relational operator is possible. In the chaining, if all  comparisons return True then only result is True. If atleast one  comparison returns False then the results is False
+
+#### BitWise operator
+  
+  & -> bitwise and
+  | -> bitwise or
+  ^ -> bitwise x-or 
+  ~ -> bitwise complement operator
+  << -> bitwise left shift operator
+  >> -> bitwise right shift operator
+
