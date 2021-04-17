@@ -25,4 +25,11 @@ print(s1 <  s2)
 print(s1 <= s2)
 print(s1 >  s2)
 print(s1 >= s2)
+print("\n")
 
+# Boolean value comparison
+print("Boolean value comparison \n")
+print(True > False)
+print(True >= False)
+print(True < False)
+print(True <= False)

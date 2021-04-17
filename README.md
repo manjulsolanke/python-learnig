@@ -183,4 +183,5 @@ Difference between List and Tuple
 7) Exponent operator or Power operator(**)
 
 ###  Relational operator
-1) 
+1) Relational operator can be applied for numbers, string and boolean value as well. 
+2) Chaining of relational operator is possible. In the chaining, if all  comparisons return True then only result is True. If atleast one  comparison returns False then the results is False
