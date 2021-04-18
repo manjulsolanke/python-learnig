@@ -195,3 +195,15 @@ Difference between List and Tuple
   << -> bitwise left shift operator
   >> -> bitwise right shift operator
 
+  ### assignment operator
+
+  ### Ternary operator
+
+  ### Special operator
+    1) Identity operator:
+       - is 
+       - is not
+    2) Membership
+       - in 
+       - not in   
+
