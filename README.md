@@ -207,3 +207,25 @@ Difference between List and Tuple
        - in 
        - not in   
 
+## Input statements
+ 
+ ### raw_input and intput
+
+ ### python input() function
+
+ ### Multiple value
+
+ ### command line arguments
+
+
+##  output 
+
+### output () function
+
+### sep attribute
+
+### end attribute
+
+### printing formatted string 
+
+### replacement operator
