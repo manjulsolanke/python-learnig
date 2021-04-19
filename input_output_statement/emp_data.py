@@ -1,0 +1,13 @@
+emp_no = int(input('Enter  the emp code:'))
+emp_name = input('Enter the emp name:') # type casting not required as input() going to return str()
+emp_sal = float(input('Enter the emp salary:'))
+emp_address = input('Enter the emp City name:')
+#emp_married = bool(input('Emp married?[True/False]:'))
+
+emp_married = eval(input('Emp married?[True/False]:'))
+print('confirmation of emp  data')
+print('Enter  the emp code:', emp_no)
+print('Enter the emp name:', emp_name)
+print('Enter the emp salary:', emp_sal)
+print('Enter the emp City name:', emp_address)
+print('Emp married?',emp_married)
