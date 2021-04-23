@@ -208,7 +208,7 @@ Difference between List and Tuple
        - not in   
 
 ## Input statements
- 
+  Input function always going to return str type.
  ### raw_input and intput
 
  ### python input() function
