@@ -229,3 +229,25 @@ Difference between List and Tuple
 ### printing formatted string 
 
 ### replacement operator
+
+
+## Flow controls.
+
+### selection statements
+ 
+ - if
+ - if-else
+ - if-else
+ - if-else-else
+ - if-elif
+
+
+### Iterative statements
+
+- for 
+- while
+
+### transfer statements
+
+- break
+- continue
