@@ -7,7 +7,5 @@ print(fname)
 print(a)
 print(b)
 print(z)
-
-
-name = input('Enter your name:')
-print(name)
+s = input('Enter your name:')
+print(s)
