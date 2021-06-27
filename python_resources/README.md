@@ -10,3 +10,4 @@ https://inventwithpython.com/
 https://github.com/quobit/awesome-python-in-education 
 
 [Practice](https://www.practicepython.org)
+[FullStackPython](https://www.fullstackpython.com/table-of-contents.html)
