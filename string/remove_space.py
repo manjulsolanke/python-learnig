@@ -8,7 +8,7 @@ name = '   Manjul Solanke   '
 fname = 'Manjul Solanke'
 print(name.lstrip()) # remove space from left side
 print(name.rstrip()) # remove spaces from right side
-print(name.strip())
+print(name.strip()) # remove any spacess
 
 #if name == fname:
 #    print('Welcome ' + name)
