@@ -1,13 +1,13 @@
 CITY = input("Please enter the CITY name: ")
-#sCITY = CITY.strip()
-if CITY == 'Parbhani':
+SCITY = CITY.strip() # it removed spaces from user input from both Left and right.
+if SCITY == 'Parbhani':
     print('Jagat Germany ani Bharatat Parbhani')
-elif CITY == 'Pune':
+elif SCITY == 'Pune':
     print('Pune tithe kya Pune')
-elif CITY == 'Bangalore':
+elif SCITY == 'Bangalore':
     print('Welcome to TechHalli')
-elif CITY == 'Chennai':
-    print('Wannacame Anna')
+elif SCITY == 'Chennai':
+    print('Vanakkam Anna')
 else:
     print('Enter the valid CITY')
     
