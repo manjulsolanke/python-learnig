@@ -1,17 +1,13 @@
-# converting from float to int data types.
+print( '*' * 10 + ' Converting from float to int data types ' + '*' * 10)
 a = int(10.9898)
 print(a)
-
-# converting from int to float data types.
+print('*' * 10 + ' Converting from int to float data types ' + '*'  * 10)
 b = float(10)
 print(b)
-
-# converting from boolean  to int data types.
-
-
+print ('*' * 10 + ' converting from boolean  to int data types ' + '*' * 10)
 c = int(True)
 print(c)
 d = int(False)
 print(d)
-
-# Complex type can't be converted to the int data types.
+print ('*' *  20)
+print("Complex type can't be converted to the int data types")
