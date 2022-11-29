@@ -10,14 +10,9 @@ print(" This is\b b\backspace")
 
 print("This is enter \r")
 
-
 print("This is horizontal \ttab")
 
-
 print("This is vertical  \vtab")
-
-
-
 
 
 
