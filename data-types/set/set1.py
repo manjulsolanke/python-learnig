@@ -1,3 +1,4 @@
+
 s = {10,20,30,40}
 print(type(s)) # which type it is?
 print(s)
@@ -8,6 +9,7 @@ print(s)
 
 #print(s[0]) # orders is not there so indexing not possible. we can get type errors
 #print(s[1:3]) # slicing is not possible as it doesn't support indexing
+# Set represented as {}, if create empty using set{}, dict will take presedence 
 
 
 
