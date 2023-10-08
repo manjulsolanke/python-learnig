@@ -30,3 +30,10 @@ print(type(s))
 # Create a empty set git s
 s = set()
 print(type(s))
+
+Account Name : Manjuldas Narayanrao Solanke
+Account Number : 31181354882
+IFSC : SBIN0017125
+UIP : 9986407272@sbi
+IFSC : SBIN0017125
+Pratibha : 38260045465
