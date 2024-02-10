@@ -10,7 +10,7 @@ def main():
     # calculate subtotal as item_price * quantity
     subtotal = items_price * quantity
     # print the subtotal price 
-    print(f"item_name: {items_name}', subtotal: {subtotal}")
+    print(f"item_name: {items_name}, subtotal: {subtotal}")
     # Initialize discount to 0
     discount = 0
 
